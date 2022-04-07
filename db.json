@@ -1,9 +1,9 @@
 {
   "users": [
     {
-      "email": "olivier@mail.com",
+      "email": "onstar@woowa.com",
+      "password": "$2a$10$CtVW4ZioW84PUMWV/CSDl.zZcrXhXvQ2AMEwseymZ3e8rjpx6O7jC",
       "name": "온스타",
-      "password": "$2a$10$7.GbHSFeVvlMd2wzQ9wvLOME2fDp8ypQ.ZfVxrappWGWGylJBHtyi",
       "id": 1
     }
   ]
