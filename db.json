@@ -1,3 +1,10 @@
 {
-  "users": []
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "name": "온스타",
+      "password": "$2a$10$7.GbHSFeVvlMd2wzQ9wvLOME2fDp8ypQ.ZfVxrappWGWGylJBHtyi",
+      "id": 1
+    }
+  ]
 }
