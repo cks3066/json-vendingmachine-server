@@ -1,0 +1,26 @@
+{
+  "name": "json-vendingmachine-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "heroku-prebuild": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cks3066/json-vendingmachine-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cks3066/json-vendingmachine-server/issues"
+  },
+  "homepage": "https://github.com/cks3066/json-vendingmachine-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  }
+}
